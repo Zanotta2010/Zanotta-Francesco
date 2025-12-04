@@ -1,1 +1,24 @@
-# Zanotta-Francesco
+a=float(input("inserisci a: "))
+b=float(input("inserisci b: "))
+c=float(input("inserisci c: "))
+d=float(input("inserisci d: "))
+def maggiore(a,b,c,d):
+     if a>b:
+          if a>c:
+               if a>d:
+                    max=a
+else: 
+if b>a:
+     if b>c:
+          if b>d:
+               max=b
+else:
+     if c>a:
+          if c>b:
+               if c>d:
+                    max=c
+else:if
+    if d>a:
+         if d>b:
+              if d>c:
+                   max=d# Zanotta-Francesco
